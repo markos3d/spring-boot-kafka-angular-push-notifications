@@ -1,4 +1,4 @@
-package com.notification.service.kafkaproducer;
+package com.notification.service.kafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
